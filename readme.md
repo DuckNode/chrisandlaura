@@ -1,7 +1,7 @@
 # Chris and Laura's Wedding application
 
-cd ~ 
-cd [code location]
+cd ~  
+cd [code location] 
 cd public_html 
 ls -a 
 
