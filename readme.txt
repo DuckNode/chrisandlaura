@@ -1,4 +1,4 @@
-# Chris and Laura's Wedding application
+#Chris and Laura's Wedding application
 
 cd ~
 cd code
