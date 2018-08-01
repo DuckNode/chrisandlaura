@@ -1,3 +1,5 @@
+# Chris and Laura's Wedding application
+
 cd ~
 cd code
 cd public_html
