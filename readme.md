@@ -1,5 +1,6 @@
 # Chris and Laura's Wedding application
 
+--navigate to solution after clone
 cd ~  
 cd [code location] 
 cd public_html  
@@ -15,7 +16,7 @@ git pull
 git status  
 git add .  
 git status  
-git commit -m "update index with new photos"  
+git commit -m [message, i.e."update index with new photos"]
 git push origin master  
 
 --ideas  
