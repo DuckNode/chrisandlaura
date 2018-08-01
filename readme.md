@@ -1,4 +1,4 @@
-# Chris and Laura's Wedding application
+# Chris and Laura's Wedding webapp
 
 --navigate to solution after clone
 cd ~  
